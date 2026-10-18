@@ -243,4 +243,4 @@ This repository serves as the official landing page for OctoPrint. The software 
 **Get the most recent version of OctoPrint today!**
 
 ---
-**Last updated:** 2026-10-18 05:41:24 UTC
+**Last updated:** 2026-10-18 10:51:16 UTC
